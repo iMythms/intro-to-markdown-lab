@@ -52,9 +52,7 @@ Functions can process data input and output a value using the return keyword.
 const addNums = (numA, numB) => {
 	return numA + numB
 }
-```
 
-```javascript
 const total = addNums(2, 4)
 
 console.log(total) // Expected value: 6
